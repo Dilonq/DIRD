@@ -9,7 +9,7 @@ Squads will be separated into groups of four, with each individual possessing a 
 The Captain, designated XX-1, will be in charge of all other squad members, having the final say in any necessary decision made by the squad, unless all other squad members disagree unanimously. XX-1 also has the duty of investigating any incidents that take place within the facility. If no incidents have occurred, XX-1 will focus on completing maintenance tasks around the facility.
 
 ### Scribe
-The Scribe, designated XX-2, has the duty of logging anything of interest that happens during the mission.
+The Scribe, designated XX-2, has the duty of logging anything of interest that happens during the mission. When not logging information, XX-2 will complete tasks and fix sabotages during the mission.
 
 ### Technician
 The Technician, designated XX-3, has the duty of fixing any sabotages or other problems the facility undergoes during the mission. 
@@ -39,7 +39,7 @@ The Chain of Command begins with XX-1 and continues with each increasing integer
 
 ### Agent
 
-The Agent, designated XX-1, is not necessarily part of any Task Force. XX-1 can be deployed into solo missions, or partake in squad missions. In a solo mission, XX-1 will take the roles of Captain, Scribe, Technician, and Security, providing a "one man army" kind of member. On squad missions, XX-1 will take the role of either Captain or Technician, changing his designation to that of their respective role.
+The Agent, designated XX-1, is not necessarily part of any Task Force. XX-1 can be deployed into solo missions, or partake in squad missions. In a solo mission, XX-1 will take the roles of Captain, Scribe, Technician, and Security, providing a "one man army" kind of member. On squad missions, XX-1 will take the role of Captain, Scribe, Technician, or Security, changing their designation to that of their respective role.
 
 ## Discord Role Organization
 Task Forces will be separated, member roles will not.
