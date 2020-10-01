@@ -5,4 +5,4 @@ Department of Imposter Research and Destruction
 
 [Imposter Catalog](Imp-data/Imp-log.md)
 
-[Information](Info/info.md)
+[Info](Info/info.md)
