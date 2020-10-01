@@ -1,6 +1,6 @@
 # Catalog of Known Imposters
 
-[Home](../../README.md)
+[Home](../../)
 
 <details>
 <summary>Series 1</summary>
