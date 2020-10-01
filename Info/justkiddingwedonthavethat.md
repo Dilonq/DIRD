@@ -1,3 +1,3 @@
 # Just kidding we dont have that
 
-[Home](../../)
+[Home](../index.md)

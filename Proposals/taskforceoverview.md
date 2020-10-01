@@ -1,5 +1,7 @@
 # Task Force Squad Organization
 
+[Home](../index.md)
+
 ## Overview
 
 Squads will be separated into groups of four, with each individual possessing a role based on said individual's skill set. Task Force example names will be shortened to "XX". A more realistic example could be Task Force Epsilon-11, while the shortened name would be E-11.

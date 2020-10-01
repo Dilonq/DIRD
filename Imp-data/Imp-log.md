@@ -1,6 +1,6 @@
 # Catalog of Known Imposters
 
-[Home](../../)
+[Home](../index.md)
 
 <details>
 <summary>Series 1</summary>
