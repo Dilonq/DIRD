@@ -1,3 +1,3 @@
-# Just kidding bitch we dont have that
+# Just kidding we dont have that
 
 [Home](../../README.md)
