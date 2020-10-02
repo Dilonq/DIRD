@@ -8,5 +8,8 @@ Series 1
 
 + [IMP-002](Imps/Imp-002.md)
 
-+ [IMP-003](../Info/justkiddingwedonthavethat.md)
++ [IMP-013](Imps/Imp-013.md)
+
++ [IMP-014](Imps/Imp-013.md)
+
 

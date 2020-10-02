@@ -5,4 +5,6 @@ Department of Imposter Research and Destruction
 
 [Imposter Catalog](Imp-data/Imp-log.md)
 
+[Incident Catalog](Imp-data/Incident-log.md)
+
 [Info](Info/info.md)
