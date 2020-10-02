@@ -1,3 +1,9 @@
+[Home](../index.md)
+
+[Imposter Catalog](Imp-log.md)
+
+# Imposter Template
+
 **Item #:** 
 IMP-XXX
 
@@ -26,7 +32,7 @@ White: “SPEAKING WORDS”
 < End Log >
 
 *Author:*
-USERNAME#XXXX, Task Force XX, Role (Add your job here)
+USERNAME#XXXX, Task Force XX, Role (Add your discord job here)
 
 ### Notes
 

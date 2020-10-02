@@ -2,6 +2,8 @@
 
 [Home](../index.md)
 
+[I want to make an imposter!](Imp-template.md)
+
 Series 1
 
 + [IMP-001](Imps/Imp-001.md)
