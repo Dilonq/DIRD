@@ -1,4 +1,4 @@
-# DIRD (UNDER CONSTRUCTION)
+# DIRD 
 Department of Imposter Research and Destruction
 
 ### Sections
